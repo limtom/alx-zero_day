@@ -1,1 +1,1 @@
-Readme inside the newly created directory
+Readme file updated
